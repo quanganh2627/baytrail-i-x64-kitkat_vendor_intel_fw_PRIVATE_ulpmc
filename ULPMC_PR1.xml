@@ -17,7 +17,7 @@
     <data>05</data>
   </hdr_node>
   <hdr_node name="Charger Input Voltage and current limit" byte_cnt="1" offset="0005">
-    <data>36</data>
+    <data>06</data>
   </hdr_node>
   <hdr_node name="BoardId" byte_cnt="1" offset="0006">
     <data>01</data>
